@@ -1,7 +1,4 @@
-/**
- *
- */
-package src;
+
 
 /**
  * @author Victor Hugo Gallegos Mota y Alexis Coca Pintor
