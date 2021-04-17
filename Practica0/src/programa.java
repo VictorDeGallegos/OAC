@@ -11,7 +11,7 @@ public class programa {
 
 public static void main(String[] args) {
 
-        /**	Clase principal con 12 acciones a realizar
+        /**	Esta es la Clase principal con 12 acciones a realizar
          * para evitar realizar 12 metodos bastará con
          * usar una base en particular la decimal y reañizar las conversiones
          */
